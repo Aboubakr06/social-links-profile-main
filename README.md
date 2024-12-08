@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/solutions/social-links-profile-FmYLyFhZST)
-- Live Site URL: (https://spontaneous-pavlova-6a68a0.netlify.app/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/social-links-profile-FmYLyFhZST)
+- Live Site URL: [Live Site](https://spontaneous-pavlova-6a68a0.netlify.app/)
 
 ## My process
 
